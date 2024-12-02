@@ -1,4 +1,4 @@
-![Header Logo](https://github.com/konynunez/konynunez/blob/main/header-logo.png
+![Header Logo](https://github.com/konynunez/konynunez/blob/main/panoramix.png)
 
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>👯 I’m looking for work<br>🌱 I’m currently learning Azure<br>💬 Ask me about anything<br>⚡ Fun fact
